@@ -14,4 +14,4 @@ This notebook (open in Jupyer notebook in python 3) gives you a basic understand
 }
 
 
-web link for data https://api.covid19india.org/csv/latest/state_wise_daily.csv
+To download latest data to your computer click on this link https://api.covid19india.org/csv/latest/state_wise_daily.csv
