@@ -2,12 +2,7 @@
 This notebook (open in Jupyer notebook in python 3) gives you a basic understanding on - How to read COVID dataset from https://www.covid19india.org/ web page - Convert the data base available to a form suited for applying machine learning techniques - How Random Forest approach can be employed on the dataset and a comparison of performance based on variants of random forest approaches including Random Search CV - Comparison based on Performance measures 
 # Explanation video is available on youtube 
 
-[Explanation video is available on youtube](https://www.youtube.com/channel/UCP35aGSzN43U5TgiE8qPg7g)
-
-![Intercog - Youtube channel Subscrice and share for more videos](together_logo.png)
-
-                            Intercog - Subscribe and share the Channel for more videos
-
+[Explanation video is available on youtube Channel Intercog - please subscribe and share](https://www.youtube.com/channel/UCP35aGSzN43U5TgiE8qPg7g)
 
 # Acknowledgements for Data used 
 
